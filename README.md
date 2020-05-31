@@ -18,25 +18,28 @@ You need to "fork" (make a clone of) this repository. See, this repository is ca
 
 See the button? Once you click it..
 
+
 ![](/images/02-forked.png)
 
 You should get your own copy!
 
-## 3) Make some changes!
+## 3) Make some changes
 
-Now you have your own copy, go wild! Or rather, add your name to `CONTRIBUTORS.md`. Find the file.
+Now find the file `CONTRIBUTORS.md`.
 
 ![](/images/03-filename.png)
 
-And then find a pencil button that says "Edit this file" when you hover over it.
+And then find edit button.
 
 ![](/images/04-edit.png)
 
-Now add your name.
+Add your name.
 
 ![](/images/05-edited.png)
 
-And scroll to the bottom. Find this menu.
+## 4) Commit your changes
+
+On the same page, scroll to the bottom. Find this commit panel.
 
 ![](/images/06-branch.png)
 
@@ -46,12 +49,23 @@ Now unfortunately, this will open a pull request window from your branch to your
 
 ![](/images/07-button.png)
 
-That will land you to the Pull Request Page!
+## 5) The Pull Request
+
+That will land you to the Pull Request Page! You want to merge into `master` branch of `kyzn/welcome-to-prc`.
 
 ![](/images/08-pr.png)
 
-You want to merge into `master` branch of `kyzn/welcome-to-prc`. Create more branches for more pull requests.
+Click "Create Pull Request" once you are ready.
 
+![](/images/09-pr-open.png)
+
+This is how it look open. And when it's merged, it will look like..
+
+![](/images/10-pr-merged.png)
+
+## 6) Done!
+
+That's it! Actually you are pretty much done once you submit the PR. No need to wait until it's merged.
 
 If you would like to improve this documentation, you are most welcome! Just submit some more PRs.
 
