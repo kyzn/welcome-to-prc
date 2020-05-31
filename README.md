@@ -71,7 +71,7 @@ If you would like to improve this documentation, you are most welcome! Just subm
 
 # More resources
 
-- https://www.youtube.com/embed/Ip5x-UtOM6k
+- https://www.youtube.com/watch?v=Ip5x-UtOM6k
 - https://github.com/CPAN-PRC/resources/wiki/My-first-Pull-Request
 - https://pullrequest.club/help
 - https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests
