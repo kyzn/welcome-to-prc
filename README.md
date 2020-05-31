@@ -14,18 +14,50 @@ You will need a GitHub account to proceed, because this repository currently liv
 
 You need to "fork" (make a clone of) this repository. See, this repository is called `kyzn/welcome-to-pr`, where `kyzn` is my username. Unless you have right permissions, you won't be able to make any changes to it. There is a useful "Fork" button at top right of this page. If you click that, you will get your own copy: `your-name/welcome-to-pr`. That is yours. You can modify it as you like it. And I don't get to mess with your copy.
 
+![](/images/01-fork.png)
+
+See the button? Once you click it..
+
+![](/images/02-forked.png)
+
+You should get your own copy!
+
 ## 3) Make some changes!
 
-Now you have your own copy, go wild! Or rather, add your name to `CONTRIBUTORS.md`. You can do this on GitHub.com. Find the file, and then find a pencil button that says "Edit this file" when you hover over it. Add your name, and scroll to the bottom. Go with "Create a new branch for this commit and start a pull request.". You want to merge into `master` branch of `kyzn/welcome-to-prc`. Create more branches for more pull requests.
+Now you have your own copy, go wild! Or rather, add your name to `CONTRIBUTORS.md`. Find the file.
 
-Alternatively, you can clone the repository to your local machine. Create your branches there, and push back to GitHub. Watch me demo it below. Feel free to rewind for more info on git and branches and more.
+![](/images/03-filename.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ip5x-UtOM6k?start=1934" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+And then find a pencil button that says "Edit this file" when you hover over it.
+
+![](/images/04-edit.png)
+
+Now add your name.
+
+![](/images/05-edited.png)
+
+And scroll to the bottom. Find this menu.
+
+![](/images/06-branch.png)
+
+Go with "Create a new branch for this commit and start a pull request."
+
+Now unfortunately, this will open a pull request window from your branch to your master. We want to submit it to kyzn's master. So you need to go to https://github.com/kyzn/welcome-to-prc. There, you will see a glowing "Compare & pull request" button. Click that.
+
+![](/images/07-button.png)
+
+That will land you to the Pull Request Page!
+
+![](/images/08-pr.png)
+
+You want to merge into `master` branch of `kyzn/welcome-to-prc`. Create more branches for more pull requests.
+
 
 If you would like to improve this documentation, you are most welcome! Just submit some more PRs.
 
 # More resources
 
+- https://www.youtube.com/embed/Ip5x-UtOM6k
 - https://github.com/CPAN-PRC/resources/wiki/My-first-Pull-Request
 - https://pullrequest.club/help
 - https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests
