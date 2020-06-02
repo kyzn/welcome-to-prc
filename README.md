@@ -14,12 +14,12 @@ You will need a GitHub account to proceed, because this repository currently liv
 
 You need to "fork" (make a clone of) this repository. See, this repository is called `kyzn/welcome-to-pr`, where `kyzn` is my username. Unless you have right permissions, you won't be able to make any changes to it. There is a useful "Fork" button at top right of this page. If you click that, you will get your own copy: `your-name/welcome-to-pr`. That is yours. You can modify it as you like it. And I don't get to mess with your copy.
 
-![](/images/01-fork.png)
+![](/images/01-fork.jpg)
 
 See the button? Once you click it..
 
 
-![](/images/02-forked.png)
+![](/images/02-forked.jpg)
 
 You should get your own copy!
 
@@ -27,41 +27,41 @@ You should get your own copy!
 
 Now find the file `CONTRIBUTORS.md`.
 
-![](/images/03-filename.png)
+![](/images/03-filename.jpg)
 
 And then find edit button.
 
-![](/images/04-edit.png)
+![](/images/04-edit.jpg)
 
 Add your name.
 
-![](/images/05-edited.png)
+![](/images/05-edited.jpg)
 
 ## 4) Commit your changes
 
 On the same page, scroll to the bottom. Find this commit panel.
 
-![](/images/06-branch.png)
+![](/images/06-branch.jpg)
 
 Go with "Create a new branch for this commit and start a pull request."
 
 Now unfortunately, this will open a pull request window from your branch to your master. We want to submit it to kyzn's master. So you need to go to https://github.com/kyzn/welcome-to-prc. There, you will see a glowing "Compare & pull request" button. Click that.
 
-![](/images/07-button.png)
+![](/images/07-button.jpg)
 
 ## 5) The Pull Request
 
 That will land you to the Pull Request Page! You want to merge into `master` branch of `kyzn/welcome-to-prc`.
 
-![](/images/08-pr.png)
+![](/images/08-pr.jpg)
 
 Click "Create Pull Request" once you are ready.
 
-![](/images/09-pr-open.png)
+![](/images/09-pr-open.jpg)
 
 This is how it look open. And when it's merged, it will look like..
 
-![](/images/10-pr-merged.png)
+![](/images/10-pr-merged.jpg)
 
 ## 6) Done!
 
