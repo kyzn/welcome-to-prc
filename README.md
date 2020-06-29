@@ -45,13 +45,13 @@ On the same page, scroll to the bottom. Find this commit panel.
 
 Go with "Create a new branch for this commit and start a pull request."
 
-Now unfortunately, this will open a pull request window from your branch to your master. We want to submit it to kyzn's master. So you need to go to https://github.com/kyzn/welcome-to-prc. There, you will see a glowing "Compare & pull request" button. Click that.
+Now unfortunately, this will open a pull request window from your branch to your main. We want to submit it to kyzn's main. So you need to go to https://github.com/kyzn/welcome-to-prc. There, you will see a glowing "Compare & pull request" button. Click that.
 
 ![](/images/07-button.jpg)
 
 ## 5) The Pull Request
 
-That will land you to the Pull Request Page! You want to merge into `master` branch of `kyzn/welcome-to-prc`.
+That will land you to the Pull Request Page! You want to merge into `main` branch of `kyzn/welcome-to-prc`.
 
 ![](/images/08-pr.jpg)
 
