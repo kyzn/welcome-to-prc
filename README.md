@@ -1,73 +1,82 @@
 # Welcome to Pull Request Club!
 
-This repository is made to help you get accustomed to pull requests and PRC. You may have received this repository as your assignment. We hope you find this helpful as exciting as we do.
+This repository is here to help you with the concept of pull requests. Pull requests are the most common way to contribute to open source projects these days.
 
-# What do I do now?
+This might be your very first Pull Request Club assignment. We hope you find this helpful and exciting!
 
-We are assuming you want to submit a pull request to this very repository. That sounds great! Welcome onboard.
+# What should I do now?
 
-## 1) Create a GitHub Account
+Your assignment is submitting a Pull Request to this very repository. We recommend adding your name (and a comment if you like) to `CONTRIBUTORS.md` and submitting just that. Make sure you are logged in to your GitHub account. Here's how to proceed:
 
-You will need a GitHub account to proceed, because this repository currently lives on GitHub. Please login.
+## 1) Fork the Repository
 
-## 2) Fork the Repository
+You need to "fork" (make a copy of) this repository. See, this repository is called `kyzn/welcome-to-prc`, where `kyzn` is my username. Unless you have right permissions, you won't be able to make any changes to it. There is a useful "Fork" button at top right of this page.
 
-You need to "fork" (make a clone of) this repository. See, this repository is called `kyzn/welcome-to-pr`, where `kyzn` is my username. Unless you have right permissions, you won't be able to make any changes to it. There is a useful "Fork" button at top right of this page. If you click that, you will get your own copy: `your-name/welcome-to-pr`. That is yours. You can modify it as you like it. And I don't get to mess with your copy.
+![](/images/01-fork.png)
 
-![](/images/01-fork.jpg)
+You should click that button to get your own copy. If you are in a GitHub organization, you may see a prompt that looks like below.
 
-See the button? Once you click it..
+![](/images/02-fork-select.png)
 
+If you see that, we recommend you choose your own name (the one at top).
 
-![](/images/02-forked.jpg)
+![](/images/03-forked.png)
 
-You should get your own copy!
+Now you have your own copy, in your own namespace. You can modify it as you like.
 
-## 3) Make some changes
+## 2) Make some changes
 
 Now find the file `CONTRIBUTORS.md`.
 
-![](/images/03-filename.jpg)
+![](/images/04-contributors.png)
 
-And then find edit button.
+If you click on the filename, GitHub will show you the file. There, find the "pencil" which means "edit".
 
-![](/images/04-edit.jpg)
+![](/images/05-edit.png)
 
-Add your name.
+Clicking that will show you the file editor. 
 
-![](/images/05-edited.jpg)
+![](/images/06-edited.png)
 
-## 4) Commit your changes
+Add your name and any comments you have to the end of file.
+
+## 3) Commit your changes
 
 On the same page, scroll to the bottom. Find this commit panel.
 
-![](/images/06-branch.jpg)
+![](/images/07-commit.png)
 
-Go with "Create a new branch for this commit and start a pull request."
+While "Commit directly to the `main` branch" is selected, click "Commit changes".
 
-Now unfortunately, this will open a pull request window from your branch to your main. We want to submit it to kyzn's main. So you need to go to https://github.com/kyzn/welcome-to-prc. There, you will see a glowing "Compare & pull request" button. Click that.
+## 4) The Pull Request
 
-![](/images/07-button.jpg)
+Go back to the home page of your forked repository. There, you should see a note that says your branch is 1 commit ahead.
 
-## 5) The Pull Request
+![](/images/08-committed.png)
 
-That will land you to the Pull Request Page! You want to merge into `main` branch of `kyzn/welcome-to-prc`.
+That note comes with a "Pull request" button on the right. Click that.
 
-![](/images/08-pr.jpg)
+![](/images/09-pr.png)
 
-Click "Create Pull Request" once you are ready.
+Click "Create pull request" to reveal a message editor.
 
-![](/images/09-pr-open.jpg)
+![](/images/10-pr-message.png)
 
-This is how it look open. And when it's merged, it will look like..
+Feel free to leave a pull request comment. Then click "Create pull request".
 
-![](/images/10-pr-merged.jpg)
+![](/images/11-pr-open.png)
 
-## 6) Done!
+Above is how your "open" pull request will look like. At this point, you can go back to Pull Request Club and mark your assignment as done. Great job!
 
-That's it! Actually you are pretty much done once you submit the PR. No need to wait until it's merged.
+![](/images/12-pr-merged.png)
 
-If you would like to improve this documentation, you are most welcome! Just submit some more PRs.
+Your pull request will look like this once it's merged. At this point you can delete your forked repository.
+
+## 5) Done!
+
+You did great!
+
+If you would like to improve this documentation, you are most welcome! Just submit some more pull requests.
 
 # More resources
 
