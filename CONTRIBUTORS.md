@@ -1,8 +1,7 @@
 # CONTRIBUTORS
 
-Feel free to add your name here!
+Feel free to add your name here. Also feel free to add a comment.
 
-- John Doe
-- Jane Doe
-- Sarı Çizmeli Mehmet Ağa
 - Andrew Hewus Fresh
+- My first PR! Thank you for doing this ~estrabd
+
