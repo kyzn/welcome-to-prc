@@ -6,3 +6,4 @@ Feel free to add your name here. Also feel free to add a comment.
 - My first PR! Thank you for doing this ~estrabd
 - Deven T. Corzine -- https://github.com/deven/
 - https://github.com/goker67/ 
+- Sergio Muriel -- aka tfe
