@@ -12,3 +12,4 @@ Feel free to add your name here. Also feel free to add a comment.
 - jluis --https://github.com/jluis
 - Muhammad Kaisar Arkhan -- https://github.com/yukiisbored
 - DrBaggy
+- Evaldo Santos -- https://github.com/evaldosantos
