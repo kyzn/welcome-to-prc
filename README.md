@@ -8,6 +8,8 @@ This might be your very first Pull Request Club assignment. We hope you find thi
 
 Please note that this README guides you through "how to submit your first pull request". It does so by making you add your name to a list of contributors. **THIS WILL NOT COUNT TOWARDS YOUR HACKTOBERFEST POINTS**. These PRs will be marked as "INVALID" by us. In order to gain Hacktoberfest points via this repository, please submit meaningful contributions, such as updating this very document and make it easier to read, easier to understand, easier to follow etc. Or perhaps add documentation to submit a PR via command line, you get the idea.
 
+Learn more about Hacktoberfest Values at [this link](https://hacktoberfest.digitalocean.com/resources).
+
 # What should I do now?
 
 Your assignment is submitting a Pull Request to this very repository. We recommend adding your name (and a comment if you like) to `CONTRIBUTORS.md` and submitting just that. Make sure you are logged in to your GitHub account. Here's how to proceed:
