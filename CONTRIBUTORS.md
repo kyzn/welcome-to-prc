@@ -14,3 +14,4 @@ Feel free to add your name here. Also feel free to add a comment.
 - DrBaggy
 - Evaldo Santos -- https://github.com/evaldosantos
 - Jennifer Toops -- https://github.com/jennifertoops
+- Archangelsky Daniil (Kiky Tokamuro) -- https://github.com/KikyTokamuro
