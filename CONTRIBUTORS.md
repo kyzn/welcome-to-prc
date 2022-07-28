@@ -17,3 +17,4 @@ Feel free to add your name here. Also feel free to add a comment.
 - Anik Dasgupta -- https://github.com/bigfatcoder
 - Archangelsky Daniil (Kiky Tokamuro) -- https://github.com/KikyTokamuro
 - Nicolas Mendoza -- https://github.com/nicomen
+- Furkan Akkurt
