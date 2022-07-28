@@ -16,7 +16,7 @@ Your assignment is submitting a Pull Request to this very repository. We recomme
 
 ## 1) Fork the Repository
 
-You need to "fork" (make a copy of) this repository. See, this repository is called `kyzn/welcome-to-prc`, where `kyzn` is my username. Unless you have right permissions, you won't be able to make any changes to it. There is a useful "Fork" button at top right of this page.
+You need to "fork" (make a copy of) this repository. See, this repository is called `kyzn/welcome-to-prc`, where `kyzn` is my username. Unless you have write permissions, you won't be able to make any changes to it. There is a useful "Fork" button at the top right of this page.
 
 ![](/images/01-fork.png)
 
@@ -24,7 +24,7 @@ You should click that button to get your own copy. If you are in a GitHub organi
 
 ![](/images/02-fork-select.png)
 
-If you see that, we recommend you choose your own name (the one at top).
+If you see that, we recommend you choose your own name (the one at the top).
 
 ![](/images/03-forked.png)
 
@@ -36,7 +36,7 @@ Now find the file `CONTRIBUTORS.md`.
 
 ![](/images/04-contributors.png)
 
-If you click on the filename, GitHub will show you the file. There, find the "pencil" which means "edit".
+If you click on the filename, GitHub will show you the file. There, find the "pencil" icon to edit.
 
 ![](/images/05-edit.png)
 
@@ -44,7 +44,7 @@ Clicking that will show you the file editor.
 
 ![](/images/06-edited.png)
 
-Add your name and any comments you have to the end of file.
+Add your name and any comments you have to the end of the file.
 
 ## 3) Commit your changes
 
@@ -56,7 +56,7 @@ While "Commit directly to the `main` branch" is selected, click "Commit changes"
 
 ## 4) The Pull Request
 
-Go back to the home page of your forked repository. There, you should see a note that says your branch is 1 commit ahead.
+Go back to the home page of your forked repository. There, you should see a note that says "This branch is 1 commit ahead".
 
 ![](/images/08-committed.png)
 
@@ -76,7 +76,7 @@ Above is how your "open" pull request will look like. At this point, you can go 
 
 ![](/images/12-pr-merged.png)
 
-Your pull request will look like this once it's merged. At this point you can delete your forked repository.
+Your pull request will look like this once it's merged. At this point, you can delete your forked repository.
 
 ## 5) Done!
 
