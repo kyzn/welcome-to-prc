@@ -18,4 +18,5 @@ Feel free to add your name here. Also feel free to add a comment.
 - Archangelsky Daniil (Kiky Tokamuro) -- https://github.com/KikyTokamuro
 - Nicolas Mendoza -- https://github.com/nicomen
 - Furkan Akkurt
+- Bruno Ramos -- https://github.com/brunoramoslu
 - e. alvarez -- https://alvar3z.com
