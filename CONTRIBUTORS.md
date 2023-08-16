@@ -23,3 +23,4 @@ Feel free to add your name here. Also feel free to add a comment.
 - [Gabor Szabo](https://github.com/szabgab/) Experimenting to see if this platform coulde be used for [OSDC](https://osdc.code-maven.com/) as well.
 - Bob Lied -- https://github.com/boblied Looks interesting.  Any Perl here?
 - Shimon Bollinger -- https://github.com/deoac/ . Looking for Raku
+- Tomás Cohen Arazi -- https://github.com/tomascohen
