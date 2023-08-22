@@ -24,3 +24,4 @@ Feel free to add your name here. Also feel free to add a comment.
 - Bob Lied -- https://github.com/boblied Looks interesting.  Any Perl here?
 - Shimon Bollinger -- https://github.com/deoac/ . Looking for Raku
 - Tomás Cohen Arazi -- https://github.com/tomascohen
+- James Green -- https://github.com/jkg
