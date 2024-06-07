@@ -27,3 +27,4 @@ Feel free to add your name here. Also feel free to add a comment.
 - James Green -- https://github.com/jkg
 - Chris Cormack -- https://github.com/ranginui
 - Emen -- https://github.com/emen
+- Lance A. Brown -- https://github.com/labrown
